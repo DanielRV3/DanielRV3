@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel
 
-Studying IT Engineering at Polythecnic University of San Luis Potosi, currently at 5th semester<br/>
+Studying IT Engineering at Polytechnic University of San Luis Potosí, currently at 5th semester<br/>
 
 Interested in competitive programming, I've been at the [2025 ICPC Mexico Finals](https://finals2025.icpcmexico.org/)<br/>
 
